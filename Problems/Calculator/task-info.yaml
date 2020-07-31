@@ -5,21 +5,9 @@ files:
   text: '# put your python code here'
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/5938
-status: Failed
+status: Solved
 feedback:
-  message: |+
-    Failed test #1 of 40. Cannot check answer. Perhaps output format is wrong.
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    5.0
-    0.0
-    mod
-    Correct output:
-    Division by 0!
-
-    Your code output:
-
-  time: Fri, 10 Jul 2020 08:22:59 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/5938">JetBrains
+    Academy</a></html>
+  time: Sun, 12 Jul 2020 11:10:37 UTC
 record: -1

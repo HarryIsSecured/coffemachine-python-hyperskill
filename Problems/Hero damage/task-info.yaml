@@ -17,9 +17,6 @@ files:
     def power_potion():
         pass
   learner_created: false
-- name: test.py
-  visible: true
-  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/9900
 status: Solved
 feedback:
